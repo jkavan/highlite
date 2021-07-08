@@ -18,7 +18,7 @@ You can easily install the dependencies with pip: `pip install -r requirements.t
 
 ## Installation
 
-There are multiple way to install highlite. You can just clone this repository and install it globally by symlinking the `highlite.py` file to `/usr/local/bin/hl` (or somewhere else, as long as it's in your `$PATH`).
+There are multiple way to install highlite. You can just clone this repository and install it globally by symlinking the `highlite.py` file to `/usr/local/bin/hl` (or somewhere else, as long as it's in the user's `$PATH` variable). This way all the users in the system will be able to use highlite.
 
 ```shell
 git clone https://github.com/jkavan/highlite.git
